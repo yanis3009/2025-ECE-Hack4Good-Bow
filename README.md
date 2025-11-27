@@ -32,7 +32,7 @@ Here are some project examples :
 
 
 </br>
-<div align="right">
+<div align="center">
 
 ![](./img/3.png)
 
@@ -76,7 +76,7 @@ An overview of how it works, getting started, creating a wallet, making your fir
 #### **🚨 Make sure to submit everything on [Hackathon App](https://hackathons.xrpl-commons.org/hackathons/68fb49c269f2ad67aa46f11b) before Sunday at 12:00 PM! 🚨**
 
 
-<div align="right">
+<div align="center">
 
 ![](./img/2.png)
 </div>
@@ -104,7 +104,7 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 
 And 8 amazing volunteers !
 
-<div align="right">
+<div align="center">
 
 ![](./img/4.png)
 
