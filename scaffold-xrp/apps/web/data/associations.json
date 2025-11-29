@@ -1,0 +1,80 @@
+[
+  {
+    "id": "asso-1",
+    "name": "Micro-asso Exemple",
+    "city": "Lyon",
+    "country": "France",
+    "level": 1,
+    "levelQuota": 50.0,
+    "ownerAddress": "rEXAMPLEOWNERADDRESS",
+    "receivingAddress": "rEXAMPLERECEIVER1",
+    "description": "Association pilote pour démonstration",
+    "validated": true,
+    "totalScore": 0
+  },
+  {
+    "id": "asso-2",
+    "name": "Petits Gestes Solidaires",
+    "city": "Paris",
+    "country": "France",
+    "level": 2,
+    "levelQuota": 75.0,
+    "ownerAddress": "rEXAMPLEOWNER2",
+    "receivingAddress": "rEXAMPLERECEIVER2",
+    "description": "Soutien aux projets locaux et maraudes",
+    "validated": true,
+    "totalScore": 50
+  },
+  {
+    "id": "asso-3",
+    "name": "Seeds for Tomorrow",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "level": 1,
+    "levelQuota": 40.0,
+    "ownerAddress": "rEXAMPLEOWNER3",
+    "receivingAddress": "rEXAMPLERECEIVER3",
+    "description": "Agriculture urbaine et formation des jeunes",
+    "validated": false,
+    "totalScore": 0
+  },
+  {
+    "id": "asso-4",
+    "name": "CleanCoast Initiative",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "level": 3,
+    "levelQuota": 120.0,
+    "ownerAddress": "rEXAMPLEOWNER4",
+    "receivingAddress": "rEXAMPLERECEIVER4",
+    "description": "Nettoyage des plages et sensibilisation environnementale",
+    "validated": true,
+    "totalScore": 150
+  },
+  {
+    "id": "asso-5",
+    "name": "EduBridge",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "level": 2,
+    "levelQuota": 80.0,
+    "ownerAddress": "rEXAMPLEOWNER5",
+    "receivingAddress": "rEXAMPLERECEIVER5",
+    "description": "Accès à l'éducation et matériel scolaire",
+    "validated": false,
+    "totalScore": 0
+  },
+  {
+    "id": "asso-6",
+    "name": "HealthAccess Project",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "level": 1,
+    "levelQuota": 60.0,
+    "ownerAddress": "rEXAMPLEOWNER6",
+    "receivingAddress": "rEXAMPLERECEIVER6",
+    "description": "Soins médicaux de proximité et formations",
+    "validated": true,
+    "totalScore": 100
+  }
+]

@@ -3,6 +3,7 @@
 import { Header } from "../components/Header";
 import { AccountInfo } from "../components/AccountInfo";
 import { TransactionForm } from "../components/TransactionForm";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -14,6 +15,9 @@ export default function Home() {
           <h1 className="text-4xl font-bold mb-2">Scaffold-XRP</h1>
           <p className="text-gray-600">
             A starter kit for building dApps on XRPL
+          </p>
+          <p className="mt-3">
+            <Link href="/associations" className="text-accent font-medium">Voir les micro-associations</Link>
           </p>
         </div>
 
