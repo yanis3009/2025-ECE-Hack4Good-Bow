@@ -80,6 +80,13 @@ export default function AssociationDetail({ associationId }) {
             <p className="text-xs text-gray-500">Quota XRP</p>
             <p className="text-2xl font-bold text-accent">{association.levelQuota}</p>
           </div>
+          <div className="p-3 bg-white rounded-lg border-4 border-green-400">
+            <p className="text-xs text-gray-500 font-bold">Total Donné</p>
+            <p className="text-3xl font-bold text-green-600">
+              {association.totalFundsReceived || 0}
+            </p>
+            <p className="text-xs text-gray-500">XRP</p>
+          </div>
           <div className="p-3 bg-white rounded-lg">
             <p className="text-xs text-gray-500">Actions validées</p>
             <p className="text-2xl font-bold text-green-600">{validatedActions.length}</p>

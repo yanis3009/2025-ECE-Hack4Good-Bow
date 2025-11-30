@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { WalletConnector } from "./WalletConnector";
 import { useWalletManager } from "../hooks/useWalletManager";
 import { useWallet } from "./providers/WalletProvider";
@@ -20,6 +21,12 @@ export function Header() {
           </div>
 
           <div className="flex items-center space-x-4">
+            <Link
+              href="/donors"
+              className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium"
+            >
+              Espace Donateur
+            </Link>
             {statusMessage && (
               <div
                 className={`text-sm px-3 py-1 rounded-lg ${
