@@ -111,7 +111,7 @@ export function DonationForm({ associationId, associationQuota, receivingAddress
           )}
         </div>
         <button type="submit" className="bg-accent text-white px-3 py-2 rounded-md" disabled={isLoading}>
-          {isLoading ? 'En cours…' : 'Doner en XRP'}
+          {isLoading ? 'En cours…' : 'Donner en XRP'}
         </button>
       </form>
 
